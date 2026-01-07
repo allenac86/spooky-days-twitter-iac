@@ -5,7 +5,7 @@ A serverless Python app that generates an image of various "National Days" with 
 
 This repository contains the infrastructure created using Terraform. The application code repo can be found at https://github.com/allenac86/spooky-days-twitter
 
-Architecture Diagram (AI generated using Eraser [https://www.eraser.io/ai/aws-diagram-generator]:
+Architecture Diagram (AI generated using Eraser [https://www.eraser.io/ai/aws-diagram-generator]):
 
 <img width="2831" height="1946" alt="image" src="https://github.com/user-attachments/assets/fd732983-4fd3-4e75-b02b-d99bbe14310f" />
 
