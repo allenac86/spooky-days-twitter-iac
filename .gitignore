@@ -1,0 +1,6 @@
+# backend.tf
+terraform.tfstate
+.terraform
+.terraform.lock.hcl
+*.zip
+backend.tf
